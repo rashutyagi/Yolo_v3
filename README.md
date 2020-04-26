@@ -66,6 +66,18 @@ shinchan
 14. Don't forget to perform the weight file steps mentioned in the sectio above. 
 15. Run this command `python train.py --data data/customdata/custom.data --batch 10 --cache --cfg cfg/yolov3-custom.cfg --epochs 3 --nosave`
 
+ These are the images annotated by our model 
+ 
+ ![Image 1 ](https://github.com/rashutyagi/Yolo_v3/blob/master/Part%202/V_63.jpg)
+ 
+ ![Image 2 ](https://github.com/rashutyagi/Yolo_v3/blob/master/Part%202/V_55.jpg)
+ 
+ ![Image 3 ](https://github.com/rashutyagi/Yolo_v3/blob/master/Part%202/V_70.jpg)
+ 
+ ![Image 4 ](https://github.com/rashutyagi/Yolo_v3/blob/master/Part%202/V_76.jpg)
+ 
+ 
+ ![Image 5 ](https://github.com/rashutyagi/Yolo_v3/blob/master/Part%202/V_78.jpg)
  
 
 
