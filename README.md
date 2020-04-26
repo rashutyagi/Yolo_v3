@@ -50,9 +50,9 @@ data
 ./data/customdata/images/img003.jpg
 ...
 ```
-7. You need to add custom.names file as you can see above. For our example, we downloaded images of Walle. Our custom.names file look like this:
+7. You need to add custom.names file as you can see above. For our example, we downloaded images of shinchan. Our custom.names file look like this:
 ```
-walle
+shinchan
 ```
 8. Walle above will have a class index of 0. 
 9. For COCO's 80 classes, VOLOv3's output vector has 255 dimensions ( (4+1+80)*3). Now we have 1 class, so we would need to change it's architecture.
